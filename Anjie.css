@@ -87,7 +87,7 @@ body {
 }
 
 .footer>span:last-child {
-  margin-right: 0;
+  margin-right: 1rem;
 }
 
 #about-me, .recent-work, #skills {
